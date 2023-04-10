@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exquiz Me?</string>
+    <string name="score">Score: %d</string>
+    <string name="final_score">Your final score is: %d out of 10</string>
+</resources>
